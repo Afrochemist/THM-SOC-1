@@ -1,0 +1,15 @@
+## TryHackMe SOC Level 1
+
+This repository contains notes from the TryHackMe Soc Level 1 Learning Path
+
+<u>**Cyber Defence Framework**</u>
+
+<u>**Cyber Threat Intelligence**</u>
+
+<u>**Network Security and Traffic Analysis**</u>
+
+<u>**Endpoint Security Monitoring**</u>
+
+<u>**SIEM**</u>
+
+<u>**DFIR**</u>
