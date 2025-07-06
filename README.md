@@ -16,14 +16,14 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 This sections covers various use in Digital Forensics tools
 
-**Autopsy**
+*Autopsy*
 
-**Redline**
+*Redline*
 
-**KAPE**
+*KAPE*
 
-**Volatility**
+*Volatility*
 
-**SuximLP**
+*SuximLP*
 
 
