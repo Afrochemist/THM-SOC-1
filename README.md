@@ -13,3 +13,17 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 <u>**SIEM**</u>
 
 <u>**DFIR**</u>
+
+This sections covers various use in Digital Forensics tools
+
+**Autopsy**
+
+**Redline**
+
+**KAPE**
+
+**Volatility**
+
+**SuximLP**
+
+
