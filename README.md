@@ -16,14 +16,14 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 This sections covers various use in Digital Forensics tools
 
-*Autopsy*
+*Autopsy* - tool used to digital forensics on disk
 
-*Redline*
+*Redline* - tool used for memory analysis
 
-*KAPE*
+*KAPE* - a digital forensics tool primarily used for collecting and processing Windows artifacts
 
-*Volatility*
+*Volatility* - open-source memory tool used to analyze data stores in RAM
 
-*SuximLP*
+
 
 
