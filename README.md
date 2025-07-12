@@ -2,15 +2,23 @@
 
 This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
-<u>**Cyber Defence Framework**</u>
+**Cyber Defence Framework**
 
-<u>**Cyber Threat Intelligence**</u>
+**Cyber Threat Intelligence**
 
-<u>**Network Security and Traffic Analysis**</u>
+**Network Security and Traffic Analysis**
 
-<u>**Endpoint Security Monitoring**</u>
+**Endpoint Security Monitoring**
 
-<u>**SIEM**</u>
+This sections covers many tools used to monitor netwroks for suspicious activity
+
+*Systinternals*
+
+*Osquery*
+
+*Wazuh*
+
+**SIEM**
 
 This sections goes over SIEMs. In cybersecurity a SIEM is a tool that allows a SOC to analyze and triage logs/events
 
@@ -18,7 +26,7 @@ Splunk
 
 ELK
 
-<u>**DFIR**</u>
+**DFIR**
 
 This sections covers various use in Digital Forensics tools
 
