@@ -2,28 +2,52 @@
 
 This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
-<u>**Cyber Defence Framework**</u>
+**Cyber Defence Framework**
 
-<u>**Cyber Threat Intelligence**</u>
+**Cyber Threat Intelligence**
 
-<u>**Network Security and Traffic Analysis**</u>
+**Network Security and Traffic Analysis**
 
-<u>**Endpoint Security Monitoring**</u>
+*Snort*
 
-<u>**SIEM**</u>
+*NetworkMiner*
 
-<u>**DFIR**</u>
+*Zeek*
+
+*Wireshark*
+
+*tshark*
+
+**Endpoint Security Monitoring**
+
+This sections covers many tools used to monitor netwroks for suspicious activity
+
+*Systinternals*
+
+*Osquery*
+
+*Wazuh*
+
+**SIEM**
+
+This sections goes over SIEMs. In cybersecurity a SIEM is a tool that allows a SOC to analyze and triage logs/events
+
+*Splunk*
+
+*ELK*
+
+**DFIR**
 
 This sections covers various use in Digital Forensics tools
 
-*Autopsy*
+*Autopsy* - tool used to digital forensics on disk
 
-*Redline*
+*Redline* - tool used for memory analysis
 
-*KAPE*
+*KAPE* - a digital forensics tool primarily used for collecting and processing Windows artifacts
 
-*Volatility*
+*Volatility* - open-source memory tool used to analyze data stores in RAM
 
-*SuximLP*
+
 
 <u>**Phishing**</u>
