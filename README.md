@@ -8,6 +8,16 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 **Network Security and Traffic Analysis**
 
+*Snort*
+
+*NetworkMiner*
+
+*Zeek*
+
+*Wireshark*
+
+*tshark*
+
 **Endpoint Security Monitoring**
 
 This sections covers many tools used to monitor netwroks for suspicious activity
