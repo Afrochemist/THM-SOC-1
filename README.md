@@ -32,9 +32,9 @@ This sections covers many tools used to monitor netwroks for suspicious activity
 
 This sections goes over SIEMs. In cybersecurity a SIEM is a tool that allows a SOC to analyze and triage logs/events
 
-Splunk
+*Splunk*
 
-ELK
+*ELK*
 
 **DFIR**
 
