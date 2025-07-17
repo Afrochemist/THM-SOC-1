@@ -6,6 +6,28 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 **Cyber Threat Intelligence**
 
+*openCTI*
+
+*MISP*
+
+*UrlScan.io*
+
+*Abuse.ch*
+
+*MalwareBazaar*
+
+*Feodo Tracker*
+
+*SSL Blacklist*
+
+*URLhaus*
+
+*ThreatFox*
+
+*PhishTool*
+
+*Cisco Talos Intelligence*
+
 **Network Security and Traffic Analysis**
 
 *Snort*
