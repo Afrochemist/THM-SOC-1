@@ -40,27 +40,21 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 *tshark*
 
-**Endpoint Security Monitoring**
+**Endpoint Security Monitoring** - This sections covers many tools used to monitor netwroks for suspicious activity
 
-This sections covers many tools used to monitor netwroks for suspicious activity
+*Systinternals* - troubleshoot and diagnose Windows/Linux applications
 
-*Systinternals*
+*Osquery* - tool used to triage endpoints
 
-*Osquery*
+*Wazuh* - Open source threat detection tool
 
-*Wazuh*
-
-**SIEM**
-
-This sections goes over SIEMs. In cybersecurity a SIEM is a tool that allows a SOC to analyze and triage logs/events
+**SIEM** - This sections goes over SIEMs. In cybersecurity a SIEM is a tool that allows a SOC to analyze and triage logs/events
 
 *Splunk*
 
 *ELK*
 
-**DFIR**
-
-This sections covers various use in Digital Forensics tools
+**DFIR** - This sections covers various use in Digital Forensics tools
 
 *Autopsy* - tool used to digital forensics on disk
 
