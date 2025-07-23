@@ -30,15 +30,15 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 **Network Security and Traffic Analysis**
 
-*Snort*
+*Snort* - open-source tool used for network prevention/detection system
 
-*NetworkMiner*
+*NetworkMiner* - tool used for network forensics
 
-*Zeek*
+*Zeek* - open-source tool that is a network intrusion detecton system
 
-*Wireshark*
+*Wireshark* - tools used to analyze packets in the network
 
-*tshark*
+*tshark* - cli tool used to analyze pcap files
 
 **Endpoint Security Monitoring** - This sections covers many tools used to monitor netwroks for suspicious activity
 
