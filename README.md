@@ -2,7 +2,15 @@
 
 This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
-**Cyber Defence Framework**
+**Cyber Defence Framework** - This sections covers various frameworks in cybersecurity
+
+*Pyramid of Pain*
+
+*Cyber Kill Chain*
+
+*Unified Kill Chain*
+
+*Diamond Model*
 
 **Cyber Threat Intelligence**
 
