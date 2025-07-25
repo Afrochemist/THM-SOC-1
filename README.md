@@ -2,9 +2,9 @@
 
 This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
-**Cyber Defence Framework** - This sections covers various frameworks in cybersecurity
+**Cyber Defence Framework** - This section covers various frameworks in cybersecurity
 
-*Pyramid of Pain*
+*Pyramid of Pain* - 
 
 *Cyber Kill Chain*
 
@@ -12,7 +12,7 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 *Diamond Model*
 
-**Cyber Threat Intelligence**
+**Cyber Threat Intelligence** - This section covers various tools used to gather intel on IOCs
 
 *openCTI*
 
@@ -36,7 +36,7 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 *Cisco Talos Intelligence*
 
-**Network Security and Traffic Analysis**
+**Network Security and Traffic Analysis** - This sections covers tools used to analyze network traffic
 
 *Snort* - open-source tool used for network prevention/detection system
 
