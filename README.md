@@ -4,13 +4,13 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 **Cyber Defence Framework** - This section covers various frameworks in cybersecurity
 
-*Pyramid of Pain* - 
+*Pyramid of Pain* - Threat intelligence frameworks that categorizes the priority for IOCs and TTPS 
 
-*Cyber Kill Chain*
+*Cyber Kill Chain* - Framework that explains the stages of a breach
 
-*Unified Kill Chain*
+*Unified Kill Chain* - Framework that establishes the phases of a breach
 
-*Diamond Model*
+*Diamond Model* - Framework that is utilized to handle complex scenarios
 
 **Cyber Threat Intelligence** - This section covers various tools used to gather intel on IOCs
 
