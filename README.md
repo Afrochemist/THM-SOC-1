@@ -4,7 +4,7 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 **Cyber Defence Framework** - This section covers various frameworks in cybersecurity
 
-*Pyramid of Pain* - Threat intelligence frameworks that categorizes the priority for IOCs and TTPS 
+*Pyramid of Pain* - Threat intelligence framework that categorizes the priority for IOCs and TTPS 
 
 *Cyber Kill Chain* - Framework that explains the stages of a breach
 
@@ -14,45 +14,45 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 **Cyber Threat Intelligence** - This section covers various tools used to gather intel on IOCs
 
-*openCTI* - open source platform for cyber threat intelligence
+*openCTI* - Open source platform for cyber threat intelligence
 
-*MISP* - open source threat intelligence platform
+*MISP* - Open source threat intelligence platform
 
-*UrlScan.io* - tools used to scan urls
+*UrlScan.io* - A platform used to scan urls
 
-*Abuse.ch* - open source threat intelligence platform
+*Abuse.ch* - Open source threat intelligence platform
 
-*MalwareBazaar* - a platform used to analyze malware
+*MalwareBazaar* - A platform used to analyze malware
 
-*Feodo Tracker* - 
+*Feodo Tracker* - a platform used to provide information regarding C2 frameworks
 
-*SSL Blacklist* - a platform used to detect malicious ssl connections
+*SSL Blacklist* - A platform used to detect malicious ssl connections
 
-*URLhaus* - a database used to tracker malware associated with ip addresses
+*URLhaus* - A database used to tracker malware associated with ip addresses
 
-*ThreatFox* - a platform used to find information on IOCs
+*ThreatFox* - A platform used to find information on IOCs
 
-*PhishTool* - a platform used to analyze phishing emails
+*PhishTool* - A platform used to analyze phishing emails
 
-*Cisco Talos Intelligence* - a platform used to analyze ip addresses
+*Cisco Talos Intelligence* - A platform used to analyze ip addresses
 
 **Network Security and Traffic Analysis** - This sections covers tools used to analyze network traffic
 
-*Snort* - open-source tool used for network prevention/detection system
+*Snort* - Open source tool used for network prevention/detection system
 
-*NetworkMiner* - tool used for network forensics
+*NetworkMiner* - Tool used for network forensics
 
-*Zeek* - open-source tool that is a network intrusion detecton system
+*Zeek* - Open source tool that is a network intrusion detecton system
 
-*Wireshark* - tools used to analyze packets in the network
+*Wireshark* - Tools used to analyze packets in the network
 
-*tshark* - cli tool used to analyze pcap files
+*tshark* - Cli tool used to analyze pcap files
 
-**Endpoint Security Monitoring** - This sections covers many tools used to monitor netwroks for suspicious activity
+**Endpoint Security Monitoring** - This sections covers many tools used to monitor networks for suspicious activity
 
-*Systinternals* - troubleshoot and diagnose Windows/Linux applications
+*Systinternals* - Troubleshoot and diagnose Windows/Linux applications
 
-*Osquery* - tool used to triage endpoints
+*Osquery* - Tool used to triage endpoints
 
 *Wazuh* - Open source threat detection tool
 
@@ -62,15 +62,15 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 *ELK*
 
-**DFIR** - This sections covers various use in Digital Forensics tools
+**DFIR** - This sections covers tools used in Digital Forensics
 
-*Autopsy* - tool used to digital forensics on disk
+*Autopsy* - Tool used to perform digital forensics on disk
 
-*Redline* - tool used for memory analysis
+*Redline* - Tool used for memory analysis
 
-*KAPE* - a digital forensics tool primarily used for collecting and processing Windows artifacts
+*KAPE* - A tool primarily used for collecting and processing Windows artifacts
 
-*Volatility* - open-source memory tool used to analyze data stores in RAM
+*Volatility* - Open source memory tool used to analyze data stored in RAM
 
 
 
