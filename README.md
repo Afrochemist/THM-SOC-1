@@ -14,27 +14,27 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 **Cyber Threat Intelligence** - This section covers various tools used to gather intel on IOCs
 
-*openCTI*
+*openCTI* - open source platform for cyber threat intelligence
 
-*MISP*
+*MISP* - open source threat intelligence platform
 
-*UrlScan.io*
+*UrlScan.io* - tools used to scan urls
 
-*Abuse.ch*
+*Abuse.ch* - open source threat intelligence platform
 
-*MalwareBazaar*
+*MalwareBazaar* - a platform used to analyze malware
 
-*Feodo Tracker*
+*Feodo Tracker* - 
 
-*SSL Blacklist*
+*SSL Blacklist* - a platform used to detect malicious ssl connections
 
-*URLhaus*
+*URLhaus* - a database used to tracker malware associated with ip addresses
 
-*ThreatFox*
+*ThreatFox* - a platform used to find information on IOCs
 
-*PhishTool*
+*PhishTool* - a platform used to analyze phishing emails
 
-*Cisco Talos Intelligence*
+*Cisco Talos Intelligence* - a platform used to analyze ip addresses
 
 **Network Security and Traffic Analysis** - This sections covers tools used to analyze network traffic
 
