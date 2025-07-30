@@ -337,4 +337,22 @@ A5
 
 
 
-# 
+# Phishing Case 2
+
+
+# Phishing Case 2
+
+
+# Conclusion
+
+The tools covered in this room are just some that can help you with analyzing phishing emails. 
+
+As a defender, you'll come up with your own preferred tools and techniques to perform manual and automated analysis. 
+
+Here are a few other tools that we have not covered in detail within this room that deserve a shout:
+
+    https://mxtoolbox.com/
+    https://phishtank.com/?
+    https://www.spamhaus.org/
+
+That's all, folks! Happy Hunting!
