@@ -316,32 +316,102 @@ If you don't see a virtual machine load then click the Show Split View button.
 
 Q1 What brand was this email tailored to impersonate?
 
-A1 
+A1 Netflix
+
+![alt text](image-6.png)
 
 Q2 What is the From email address?
 
-A2
+A2 NetfIix<JGQ47wazXe1xYVBrkeDg-JOg7ODDQwWdR@JOg7ODDQwWdR-yVkCaBkTNp.gogolecloud.com>
 
 Q3 What is the originating IP? Defang the IP address. 
 
-A3 
+A3 209[.]85[.]167[.]226
+
+![alt text](image-7.png)
 
 Q4 From what you can gather, what do you think will be a domain of interest? Defang the domain.
 
-A4 
+A4 etekno[.]xyz
+
+![alt text](image-8.png)
 
 Q5 What is the shortened URL? Defang the URL.
+
+A5 hxxps[://]t[.]co/yuxfZm8KPg?amp==1
+
+![alt text](image-9.png)
+
+
+# Phishing Case 2
+
+Scenario: You are a Level 1 SOC Analyst. Several suspicious emails have been forwarded to you from other coworkers. You must obtain details from each email for your team to implement the appropriate rules to prevent colleagues from receiving additional spam/phishing emails. 
+
+A malicious attachment from a phishing email inspected in the previous Phishing Room was uploaded to Any Run for analysis. 
+
+Task: Investigate the analysis and answer the questions below. 
+
+Link: https://app.any.run/tasks/8bfd4c58-ec0d-4371-bfeb-52a334b69f59
+
+## Q & A
+
+Q1 What does AnyRun classify this email as?
+
+A1 
+
+Q2 What is the name of the PDF file?
+
+A2 
+
+Q3 What is the SHA 256 hash for the PDF file?
+
+A3 
+
+Q4 What two IP addresses are classified as malicious? Defang the IP addresses. (answer: IP_ADDR,IP_ADDR)
+
+A4 
+
+Q5 What Windows process was flagged as Potentially Bad Traffic?
 
 A5 
 
 
 
+# Phishing Case 3
 
-# Phishing Case 2
+Scenario: You are a Level 1 SOC Analyst. Several suspicious emails have been forwarded to you from other coworkers. You must obtain details from each email for your team to implement the appropriate rules to prevent colleagues from receiving additional spam/phishing emails. 
 
+A malicious attachment from a phishing email inspected in the previous Phishing Room was uploaded to Any Run for analysis. 
 
-# Phishing Case 2
+Task: Investigate the analysis and answer the questions below. 
 
+Link: https://app.any.run/tasks/82d8adc9-38a0-4f0e-a160-48a5e09a6e83
+
+## Q & A
+
+Q1 What is this analysis classified as?
+
+A1 
+
+Q2 What is the name of the Excel file?
+
+A2 
+
+Q3 What is the SHA 256 hash for the file?
+
+A3 
+
+Q4 What domains are listed as malicious? Defang the URLs & submit answers in alphabetical order. (answer: URL1,URL2,URL3)
+
+A4 
+
+Q5 What IP addresses are listed as malicious? Defang the IP addresses & submit answers from lowest to highest. (answer: IP1,IP2,IP3)
+
+A5 
+
+Q6 What vulnerability does this malicious attachment attempt to exploit?
+
+A6 
 
 # Conclusion
 
