@@ -357,25 +357,32 @@ Link: https://app.any.run/tasks/8bfd4c58-ec0d-4371-bfeb-52a334b69f59
 
 Q1 What does AnyRun classify this email as?
 
-A1 
+A1 Suspicious activity
+
+![alt text](image-10.png)
 
 Q2 What is the name of the PDF file?
 
-A2 
+A2 Payment-updateid.pdf
 
 Q3 What is the SHA 256 hash for the PDF file?
 
-A3 
+A3 	CC6F1A04B10BCB168AEEC8D870B97BD7C20FC161E8310B5BCE1AF8ED420E2C24
 
 Q4 What two IP addresses are classified as malicious? Defang the IP addresses. (answer: IP_ADDR,IP_ADDR)
 
-A4 
+A4 2[.]16[.]107[.]24,2[.]16[.]107[.]83
+
+![alt text](image-11.png)
+![alt text](image-12.png)
 
 Q5 What Windows process was flagged as Potentially Bad Traffic?
 
-A5 
+A5 svchost.exe
 
+![alt text](image-13.png)
 
+[any run report](phishing-case-2.pdf)
 
 # Phishing Case 3
 
@@ -391,27 +398,35 @@ Link: https://app.any.run/tasks/82d8adc9-38a0-4f0e-a160-48a5e09a6e83
 
 Q1 What is this analysis classified as?
 
-A1 
+A1 Malicious activity
+
+![alt text](image-14.png)
 
 Q2 What is the name of the Excel file?
 
-A2 
+A2 CBJ200620039539.xlsx
 
 Q3 What is the SHA 256 hash for the file?
 
-A3 
+A3 	5F94A66E0CE78D17AFC2DD27FC17B44B3FFC13AC5F42D3AD6A5DCFB36715F3EB
 
 Q4 What domains are listed as malicious? Defang the URLs & submit answers in alphabetical order. (answer: URL1,URL2,URL3)
 
-A4 
+A4 biz9holdings[.]com,findresults[.]site,ww38[.]findresults[.]site
+
+![alt text](image-15.png)
 
 Q5 What IP addresses are listed as malicious? Defang the IP addresses & submit answers from lowest to highest. (answer: IP1,IP2,IP3)
 
-A5 
+A5 75[.]2[.]11[.]242,103[.]224[.]182[.]251,204[.]11[.]56[.]48
 
 Q6 What vulnerability does this malicious attachment attempt to exploit?
 
-A6 
+A6 CVE-2017-11882
+
+![alt text](image-16.png)
+
+[any run report](phishing-case-3.pdf)
 
 # Conclusion
 
