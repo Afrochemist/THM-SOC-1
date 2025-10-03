@@ -44,11 +44,17 @@ Whoever this someone is, it is evident they already know what to search for. Hmm
 
 Q1 What file type was searched for using the search bar in Windows Explorer?
 
-A1 
+Hint Use the RegistryExplorer tool to check the "Windows Explorer Address/Search Bars"
+
+A1 .pdf
+
+![alt text](image-112.png)
 
 Q2 What top-secret keyword was searched for using the search bar in Windows Explorer?
 
-A2 
+A2 continental 
+
+![alt text](image-113.png)
 
 
 
@@ -66,16 +72,29 @@ Note:  When using the Autopsy Tool, you can speed up the load times by only sele
 
 Q1 What is the name of the downloaded file to the Downloads folder?
 
-A1 
+A1 7z2201-x64.exe
+
+![alt text](image-114.png)
 
 Q2 When was the file from the previous question downloaded? (YYYY-MM-DD HH:MM:SS UTC)
 
-A2 
+A2 2022-11-19 12:09:19 UTC
+
+![alt text](image-115.png)
 
 Q3 Thanks to the previously downloaded file, a PNG file was opened. When was this file opened? (YYYY-MM-DD HH:MM:SS)
 
-A3 
+A3 2022-11-19 12:10:21
 
+If we check recent files there is a png file but no info on Date Accessed
+
+![alt text](image-116.png)
+
+Checking back on registry Explorer
+
+Search for png
+
+![alt text](image-117.png)
 
 
 # Sending it outside
@@ -88,21 +107,39 @@ There is no way to do it via USB. So what's their other option?
 
 Q1 A text file was created in the Desktop folder. How many times was this file opened?
 
-A1 
+A1 2
+
+We see in Autopsy->Recent Documents that a suspiciously named txt file was opened twice
+
+![alt text](image-118.png)
 
 Q2 When was the text file from the previous question last modified? (MM/DD/YYYY HH:MM)
 
-A2 
+A2 11/19/2022 12:12
+
+![alt text](image-119.png)
+
+we can also use Eric Zimmerman tools
+
+**JLECmd** is a free, open-source command-line tool for parsing Windows Jump List files. These files record user activity like recently accessed files, applications, and tasks to help streamline workflows in Windows. JLECmd extracts detailed metadata—including timestamps, file paths, application IDs, and shell items—from these artifacts, making it valuable for digital forensics, incident response, and investigations into user behavior or unauthorized access.
+
+The `-d` option specifically specifies a directory to recursively process for Jump List files. It scans the provided path (and all subdirectories) for supported files 
+
+![alt text](image-120.png)
+
+![alt text](image-121.png)
 
 Q3 The contents of the file were exfiltrated to pastebin.com. What is the generated URL of the exfiltrated data?
 
-A3 
+A3 https://pastebin.com/1FQASAav
+
+![alt text](image-122.png)
 
 Q4 What is the string that was copied to the pastebin URL?
 
-A4 
+A4 ne7AIRhi3PdESy9RnOrN
 
-
+![alt text](image-123.png)
 
 # Conclusion
 
