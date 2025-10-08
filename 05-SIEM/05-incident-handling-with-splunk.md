@@ -8,7 +8,7 @@ This room covers an incident Handling scenario using Splunk. An incident from a 
 -    A Website being defaced by the attacker
 -    The use of USB devices when there is a restriction in usage is against the company's policy
 
-## Learning ObjectiveAnalyst standing with magnifying glass
+## Learning Objectives
 
 -    Learn how to leverage OSINT sites during an investigation
 -    How to map Attacker's activities to Cyber Kill Chain Phases

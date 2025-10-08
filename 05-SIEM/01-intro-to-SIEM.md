@@ -3,7 +3,8 @@
 What is SIEM
 
 SIEM stands for Security Information and Event Management system. It is a tool that collects data from various endpoints/network devices across the network, stores them at a centralized place, and performs correlation on them. This room will cover the basic concepts required to understand SIEM and how it works.
-Learning Objective
+
+## Learning Objective
 
 Some of the learning objectives covered in this room are:
 
