@@ -73,3 +73,15 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 *Volatility* - Open source memory tool used to analyze data stored in RAM
 
 **Phishing** - This section covers phishing emails
+
+*URL Extractor* - 
+
+*Virus Total* - 
+
+*Urlscan* - 
+
+*Talos* - 
+
+*ip info* -
+
+*any-run* -  
