@@ -58,9 +58,9 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 **SIEM** - This sections goes over SIEMs. In cybersecurity a SIEM is a tool that allows a SOC to analyze and triage logs/events
 
-*Splunk*
+*Splunk* - Tool that ingest logs from multiple sources
 
-*ELK*
+*ELK* - Tool that ingest logs from multiple sources
 
 **DFIR** - This sections covers tools used in Digital Forensics
 
