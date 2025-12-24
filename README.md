@@ -74,14 +74,12 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 **Phishing** - This section covers phishing emails
 
-*URL Extractor* - 
+*URL Extractor* - Tool that extracts all websites from a url
 
-*Virus Total* - 
+*Virus Total* - Tool that gathers intel on hashes, files, and ip addresses
 
-*Urlscan* - 
+*Talos* - Tool used to gather network intel on an ip address 
 
-*Talos* - 
+*ip info* - Tool used to gether intel on an ip address
 
-*ip info* -
-
-*any-run* -  
+*any-run* - Tool that analyzes malware 
